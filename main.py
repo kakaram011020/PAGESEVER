@@ -53,9 +53,9 @@ import requests
   </style>
     </head>
     <body>
-  <header class="header mt-4">    <h1 class="mb-3" style="color: red;"> (-𝗧𝗛𝟯 𝗟𝟯𝗚𝟯𝗡𝗗 𝗕𝗢𝗬 SAMRAT -)</h1>
-    <h1 class="mt-3" style="color: White;"> (-𝗛𝗘𝗔𝗧𝗘𝗥𝗦 𝗞𝗜 𝗠𝗔𝗔 𝗖𝗛𝗢𝗗𝗡𝗘 𝗪𝗔𝗟𝗔 SAMRAT-)</h1>
-    <h1 class="mt-3" style="color: cyan;"> (- 𝗙𝗘𝗘𝗟 𝗧𝗛𝗘 𝗣𝗢𝗪𝗘𝗥 𝗢𝗥 SAMRAT -)
+  <header class="header mt-4">    <h1 class="mb-3" style="color: red;"> (-𝗧𝗛𝟯 𝗟𝟯𝗚𝟯𝗡𝗗 𝗕𝗢𝗬 𝗩𝗜𝗩𝟯𝗞 𝗧𝗢𝗠𝟰𝗥-)</h1>
+    <h1 class="mt-3" style="color: White;"> (-𝗛𝗘𝗔𝗧𝗘𝗥𝗦 𝗞𝗜 𝗠𝗔𝗔 𝗖𝗛𝗢𝗗𝗡𝗘 𝗪𝗔𝗟𝗔 𝗩𝗜𝗩𝗘𝗞 𝗧𝗢𝗠𝗔𝗥-)</h1>
+    <h1 class="mt-3" style="color: cyan;"> (- 𝗙𝗘𝗘𝗟 𝗧𝗛𝗘 𝗣𝗢𝗪𝗘𝗥 𝗢𝗥 𝗩𝗜𝗩𝗘𝗞 𝗧𝗢𝗠𝗔𝗥 -)
   </header>
 
   <div class="container">
@@ -84,7 +84,7 @@ import requests
     </form>
   </div>
   <footer class="footer">
-    <p>&copy; Developed by SAMRAT 𝟮𝟬𝟮𝟱. All Rights Reserved.</p>
+    <p>&copy; Developed by 𝗩𝗶𝘃𝗲𝗸 𝗧𝗼𝗺𝗮𝗿  𝟮𝟬𝟮𝟱. All Rights Reserved.</p>
     <p>Convo/Inbox Loader Tool</p>
     <p>Keep enjoying  <a href="https://github.com/</a></p>
   </footer>
